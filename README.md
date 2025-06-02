@@ -41,7 +41,7 @@ Recruiting top talent is challenging and time-consuming. This project aims to **
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/YOUR_USERNAME/intelligent-recruitment.git
+    git clone https://github.com/world-world-2002/intelligent-recruitment.git
     ```
 2. Open the notebook file (`ir-final-project.ipynb`) in Jupyter Notebook or VS Code.  
 3. Follow the steps in the notebook to explore, preprocess, train, and evaluate the recruitment model.
